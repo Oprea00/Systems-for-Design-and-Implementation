@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sportsteam>
+            
+    
+    <sportive>
+                        
+        
+        <id>2</id>
+                        
+        
+        <lastName>a</lastName>
+                        
+        
+        <firstName>a</firstName>
+                        
+        
+        <age>1</age>
+                        
+        
+        <teamId>1</teamId>
+                    
+    
+    </sportive>
+            
+
+
+    <sportive>
+        <id>1</id>
+        <lastName>b</lastName>
+        <firstName>b</firstName>
+        <age>1</age>
+        <teamId>2</teamId>
+    </sportive>
+</sportsteam>

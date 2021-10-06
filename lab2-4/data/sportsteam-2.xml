@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sportsteam>
+    <sportive>
+        <id>1</id>
+        <lastName>Harry Potter</lastName>
+        <firstName>J K. Rowling</firstName>
+        <age>2005</age>
+        <teamId>1</teamId>
+    </sportive>
+    <sportive>
+        <id>2</id>
+        <lastName>Learning XML</lastName>
+        <firstName>Erik T. Ray</firstName>
+        <age>2003</age>
+        <teamId>2</teamId>
+    </sportive>
+<sportive><id>6</id><lastName>a</lastName><firstName>b</firstName><age>1</age><teamId>1</teamId></sportive></sportsteam>
